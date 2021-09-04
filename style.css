@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-style: italic;
+    padding: 5px;
+    text-align: center;
+    color: #07302e;
+    text-shadow: 2px 2px 5px ;
+    background-color: white;
+}
+body{
+    background: url("../darkbg.jpg");
+}
+.main{
+    max-width: 90vw;
+    margin: auto;
+    top: 100px;
+}
+.input-group{
+
+    max-width: 80vw;
+    height: 50px;
+    margin: auto;
+    top: 25px;
+}
+.container{
+    position: abslute;
+    margin-top: 100px;
+}
+.list-group{
+    max-width: 60vw;
+    margin: auto;
+}
+
+li .btn{
+    position: absolute;
+    right: 20px;
+    bottom: 1px;
+}
+#tasks{
+    color: antiquewhite;
+}
+
+
